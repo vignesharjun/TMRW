@@ -1,0 +1,445 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [80.9320, 26.8523],
+            [80.9332, 26.8590],
+            [80.9387, 26.8591],
+            [80.9403, 26.8544],
+            [80.9364, 26.8505],
+            [80.9320, 26.8523]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "226001",
+        "city": "Lucknow",
+        "state": "Uttar Pradesh",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [76.9470, 9.9663],
+            [76.9474, 9.9706],
+            [76.9532, 9.9709],
+            [76.9538, 9.9668],
+            [76.9497, 9.9646],
+            [76.9470, 9.9663]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "695001",
+        "city": "Thiruvananthapuram",
+        "state": "Kerala",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [80.8243, 13.0832],
+            [80.8263, 13.0893],
+            [80.8321, 13.0899],
+            [80.8341, 13.0846],
+            [80.8305, 13.0810],
+            [80.8243, 13.0832]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "600001",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [88.3373, 22.5666],
+            [88.3374, 22.5708],
+            [88.3429, 22.5710],
+            [88.3433, 22.5669],
+            [88.3393, 22.5653],
+            [88.3373, 22.5666]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "700001",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [75.8579, 22.7159],
+            [75.8586, 22.7207],
+            [75.8653, 22.7210],
+            [75.8662, 22.7160],
+            [75.8617, 22.7138],
+            [75.8579, 22.7159]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "462001",
+        "city": "Bhopal",
+        "state": "Madhya Pradesh",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [77.5869, 12.9716],
+            [77.5877, 12.9753],
+            [77.5937, 12.9757],
+            [77.5945, 12.9712],
+            [77.5904, 12.9700],
+            [77.5869, 12.9716]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "560001",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [72.8336, 18.9383],
+            [72.8339, 18.9450],
+            [72.8394, 18.9453],
+            [72.8400, 18.9396],
+            [72.8363, 18.9374],
+            [72.8336, 18.9383]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "400001",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [75.7875, 26.9129],
+            [75.7879, 26.9172],
+            [75.7937, 26.9176],
+            [75.7943, 26.9135],
+            [75.7902, 26.9113],
+            [75.7875, 26.9129]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "302001",
+        "city": "Jaipur",
+        "state": "Rajasthan",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [77.0369, 28.6139],
+            [77.0380, 28.6197],
+            [77.0436, 28.6200],
+            [77.0452, 28.6154],
+            [77.0414, 28.6118],
+            [77.0369, 28.6139]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "122001",
+        "city": "Gurugram",
+        "state": "Haryana",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [77.2220, 28.6138],
+            [77.2223, 28.6200],
+            [77.2279, 28.6201],
+            [77.2283, 28.6155],
+            [77.2244, 28.6118],
+            [77.2220, 28.6138]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "110001",
+        "city": "New Delhi",
+        "state": "Delhi",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [76.9062, 30.3421],
+            [76.9074, 30.3479],
+            [76.9132, 30.3484],
+            [76.9147, 30.3438],
+            [76.9106, 30.3415],
+            [76.9062, 30.3421]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "133301",
+        "city": "Ambala",
+        "state": "Haryana",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [85.8280, 20.2867],
+            [85.8293, 20.2912],
+            [85.8350, 20.2913],
+            [85.8356, 20.2870],
+            [85.8317, 20.2853],
+            [85.8280, 20.2867]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "751001",
+        "city": "Bhubaneswar",
+        "state": "Odisha",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [81.6173, 21.2413],
+            [81.6186, 21.2459],
+            [81.6242, 21.2461],
+            [81.6249, 21.2416],
+            [81.6210, 21.2400],
+            [81.6173, 21.2413]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "492001",
+        "city": "Raipur",
+        "state": "Chhattisgarh",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [78.4867, 17.3869],
+            [78.4872, 17.3916],
+            [78.4930, 17.3917],
+            [78.4934, 17.3874],
+            [78.4893, 17.3852],
+            [78.4867, 17.3869]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "500001",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [85.3215, 23.2977],
+            [85.3218, 23.3034],
+            [85.3274, 23.3036],
+            [85.3278, 23.2991],
+            [85.3239, 23.2968],
+            [85.3215, 23.2977]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "834001",
+        "city": "Ranchi",
+        "state": "Jharkhand",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [77.6373, 12.9760],
+            [77.6377, 12.9817],
+            [77.6434, 12.9819],
+            [77.6440, 12.9774],
+            [77.6400, 12.9751],
+            [77.6373, 12.9760]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "560102",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [85.7856, 20.2547],
+            [85.7869, 20.2592],
+            [85.7926, 20.2593],
+            [85.7933, 20.2548],
+            [85.7894, 20.2531],
+            [85.7856, 20.2547]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "800001",
+        "city": "Patna",
+        "state": "Bihar",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [72.5951, 23.0207],
+            [72.5954, 23.0254],
+            [72.6010, 23.0256],
+            [72.6014, 23.0213],
+            [72.5975, 23.0196],
+            [72.5951, 23.0207]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "382002",
+        "city": "Ahmedabad",
+        "state": "Gujarat",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [72.5789, 23.0344],
+            [72.5792, 23.0391],
+            [72.5848, 23.0393],
+            [72.5851, 23.0350],
+            [72.5812, 23.0333],
+            [72.5789, 23.0344]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "380001",
+        "city": "Ahmedabad",
+        "state": "Gujarat",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [73.8546, 18.5269],
+            [73.8550, 18.5316],
+            [73.8607, 18.5318],
+            [73.8610, 18.5275],
+            [73.8571, 18.5258],
+            [73.8546, 18.5269]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "411001",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "country": "India"
+      }
+    }
+  ]
+}
